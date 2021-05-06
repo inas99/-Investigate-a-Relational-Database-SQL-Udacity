@@ -18,8 +18,10 @@ The four questions of interest are:
 * How can we compare the number of movies in each quartile for each category of family movies if we sort all movies according to the rental duration in ascending order of duration?
 * Who were the top 10 paying customers and what was the amount of the monthly payments they made in 2007 ?
   
-##Software requirements
-You should have SQL, Excel and PowerPoint
+## Software requirements
+* SQL
+* Excel 
+* PowerPoint
 
 ## Credits
 Udacity 
